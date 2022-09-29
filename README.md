@@ -1,4 +1,4 @@
-# Employee-Management-Portal
+# Employee-Management-Portal-Database system
 Project Details
 Abstract;
 An staff management portal  helps your employees to give their best efforts every day to achieve the goals of your organization. It guides and manages employees efforts in the right direction. It also securely stores and manages personal and other work-related details for your employees.  A user sign up for the application and enter his credentials and add his information by accessing it.
