@@ -11,6 +11,8 @@ The main objective of staff management portal is the scheduling system for  a wo
  To create a functional application with a user-friendly interface dedicated to performing operations related to a employee portal. 
  To connect that application to a SQL Server Database for it to store data entered by the user. 
  To apply the concepts learned in the Database Systems course.
+ To create a friendly database
+ 
  
  
 # PROJECT DESCRIPTION: 
